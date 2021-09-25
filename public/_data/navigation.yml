@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Philosophy"
+    - title: "Concept"
       section: services
     - title: "Items"
       section: portfolio
@@ -61,7 +61,7 @@ es-CO:
 # -------
 jekyll-agency: &DEFAULT_JA
   nav:
-    - title: "Philosophy"
+    - title: "Concept"
       section: services
     - title: "Items"
       section: portfolio
